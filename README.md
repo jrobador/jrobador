@@ -1,4 +1,5 @@
 ## 👋 Hi there, I’m Joaquín Andrés Robador!
+With a Master’s in Electronic Engineering, I bring hands-on experience in machine learning, digital design, and AI research. Career highlights include developing neural networks for neuroimaging, implementing machine learning models in industrial applications, and building efficient, impactful solutions for complex challenges.
 
 - 🔭 I’m currently working on building advanced machine learning models and LLM applications across various fields.
 - 🌱 I’m currently learning advanced techniques in large language models (LLMs) using LangChain, including retrieval-augmented generation, prompt engineering, and scalable deployment strategies. I’m also expanding my skills in cloud platforms and containerization tools like Docker and Kubernetes to ensure robust deployment of AI applications.
