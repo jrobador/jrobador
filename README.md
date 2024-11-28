@@ -1,5 +1,5 @@
 ## 👋 Hi there, I’m Joaquín Andrés Robador!
-I am a Electronic Engineer, bringing hands-on experience in machine learning, digital design, and AI research.
+I am an Electronic Engineer with hands-on experience in machine learning, digital design, and AI research.
 
 - 🔭 I’m currently working on building large language models (LLMs) including finetuning, retrieval-augmented generation, prompt engineering, and scalable deployment strategies.
 - 📫 How to reach me: Feel free to reach out at joaquinrobador@gmail.com
