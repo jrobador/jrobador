@@ -1,10 +1,18 @@
-## 👋 Hi there, I’m Joaquín Andrés Robador!
-I am an Electronic Engineer with hands-on experience in machine learning, digital design, and AI research.
+# Joaquín Andrés Robador | Principal AI Engineer
 
-- 🔭 I’m currently working on building large language models (LLMs) including finetuning, retrieval-augmented generation, prompt engineering, and scalable deployment strategies.
-- 📫 How to reach me: Feel free to reach out at joaquinrobador@gmail.com
-<!--
-**jrobador/jrobador** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://www.linkedin.com/in/jrobador/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:joaquinrobador@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
+</p>
 
+### 👋 About Me
 
--->
+I am a **Principal AI Engineer**, recognized with the **Fulbright Scholarship (Top 5% of Argentina)** and awarded at global hackathons like **META**. 
+
+My focus is on building robust, scalable AI solutions from the ground up. I bridge the gap between fundamental research in neural models (like my work at **INRIA**) and the practical engineering required to ship high-impact products.
+
+---
